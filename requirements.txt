@@ -1,0 +1,7 @@
+numpy
+colorama
+requests
+urllib3
+pytz
+bs4
+phonenumbers
